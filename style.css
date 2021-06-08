@@ -1,0 +1,20 @@
+body {
+	background-color:orange ;
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+	color: red;
+	font-size: 40px;
+}
+
+#myCanvas {
+	border-width: 100px;
+	background-color: white;
+    border: rgb(0, 0, 0);
+}
+
+span {
+	font-size: 20px;
+}
